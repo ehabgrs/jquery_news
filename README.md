@@ -1,2 +1,2 @@
-# News_jquery_course
+# News_jquery
 http://mvcphp.rf.gd/test/news/
